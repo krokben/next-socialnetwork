@@ -1,0 +1,17 @@
+{
+  "name": "next-socialnetwork",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:krokben/next-socialnetwork.git",
+  "author": "Tommy Svensson",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "dev": "next"
+  },
+  "dependencies": {
+    "next": "^6.0.3",
+    "react": "^16.4.0",
+    "react-dom": "^16.4.0"
+  }
+}
